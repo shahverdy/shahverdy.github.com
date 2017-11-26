@@ -1,0 +1,5 @@
+main:
+  - title: "CV"
+    url: /cv
+  - title: "PGP"
+    url: /pgp
