@@ -2,11 +2,15 @@
 title: "Firefox's going evil"
 modified:
 excerpt: "Singing addons"
+categories: [Programing, Browsers]
 tags: [Browsers]
-image:
-  feature: firefox-add-ons.jpeg
-  credit: WNLabs
+
+header:
+  teaser: /assets/images/firefox-add-ons.jpeg
+
 ---
+
+![Firefox](/assets/images/firefox-add-ons.jpeg){:style="float: right ;margin-right: 7px;margin-top: 7px;"}
 
 Firefox's add-ons environment is generally very open. Developers have a wide range of access to APIs, from changing the core to distribute their add-on from their own channel and not Mozilla's. In this way developers are more free to develop, but also they are more free to take the advantages of users!
 

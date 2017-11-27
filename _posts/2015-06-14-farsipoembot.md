@@ -2,14 +2,15 @@
 title: "FarsiPeomBot, A Telegram Robot for getting Farsi Peoms"
 modified:
 excerpt: "I usually read poems, A LOT! I decided to create a new experience of literature for myself."
-tags: [Friends]
+categories: [Programing]
+tags: []
 
 header:
-  image : /assets/images/FarsiPoemBot.jpg
   teaser : /assets/images/FarsiPoemBot.jpg
-  caption: "Photo credit: [**Mostafa Shahverdy**](https://www.mostafa.info)"
 
 ---
+
+![FarsiPeomBot](/assets/images/FarsiPoemBot.jpg)
 
 I usually read poems, A LOT! I decided to create a new experience of literature for myself, and thats a new bot for Telegram app.
 I created this app for myself, but anyone can use it as its free to use!
