@@ -13,27 +13,28 @@ header:
 
 ![How to Lie with Statistics](/assets/images/How_to_Lie_with_Statistics.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;"}
 
-**A few while ago** I was asked to make ability to generate some statistics for one of 
-my softwares, and I did it as quick as possible! Although it was working like a charm, I 
-realized that it wasn't representing the correct information related to the spirit of 
-the software. It made me to do some diggings and it led me to the book titled 'How to Lie with Statistics'
+A while ago I was asked to generate statistics for a software that I built.  
+I immediately went straight into the task!  Although it worked like a charm, 
+it didn’t represent the true purpose related to the spirit of the software.  Henceforth it led me to a journey of ‘How to Lie with Statistics’.
 
-As lately I've been a fan of short read books, I read "How to Lie With Statistics", 
-which is one of those types of books that doesn't require you to have a great deal 
-with math before trying the book. Although this book is kind of outdated, but
-kind of still relevant in public representations and advertisements. It feels
-really great when you read something from 60 years ago and most parts are still
-fresh! Reading [_the list of recomended books by the Wall street Journal_](https://blogs.wsj.com/totalreturn/2014/11/25/best-books-for-investors-a-short-shelf/){:target="\_blank"}, At first it was the title that attracted me, and then all fantastic examples kept me reading! 
-All examples are based on social and economic values of 1954, but you can 
-still feel the freshness of them, specially when you think about our current social networks and politicians!
+I’ve been a huge fan of small books for a few years.  How to Lie with Statistics is a type of 
+book that doesn’t require its readers to have mathematical talents.  
+Although it’s old it is not quite outdated, 
+it’s teachings is so intriguing that it kept me reading.  
+Reading a 60 year old book can be very refreshing, the book on public representation and marketing is quite relevant today.
+
+I was attracted to the book’s title from [*the list of recommended books by the Wall street Journal*](https://blogs.wsj.com/totalreturn/2014/11/25/best-books-for-investors-a-short-shelf/){:target="\_blank"}.
+Most examples were based on social and economics values in 1954 but it’s insight is still fresh for modern times, 
+especially when you think of our current climate in social media and politicians.  
+
 I can tell that many statisticians use information represented in this book all the time!
 The techniques described by the author are simple, and any professional should see through them. 
 With statistics being presented around every corner in today’s society, some help 
 maybe needed to decipher which statistics are truly suitable.
 
-The main purpose of the book is to show that even though statistics are true, 
-they can be misrepresentative of information, and it tries to help you
-find those false pulses. There are many errors in representations in books, newspapers,
+The main purpose of this book is to show that even though the statistics analysed is true, 
+it can misrepresent some or many information and it would try to help you find sense in those false pulses.
+There are many errors in representations in books, newspapers,
 websites and other stuffs, and this book tries to illustrate them. 
 
 The author describes statistics as "employed to sensationalize, inflate, confuse, and oversimplify". 

@@ -3,7 +3,6 @@ title: "My Mom's the greatest artist of all"
 modified:
 excerpt: "Look how my mom creates such a painting from nothing!"
 categories: [People]
-show_tags: false
 
 header:
   overlay_filter: rgba(100, 0, 100, 0.4)
