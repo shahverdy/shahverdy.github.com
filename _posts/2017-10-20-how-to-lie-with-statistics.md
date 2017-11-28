@@ -4,7 +4,7 @@ modified:
 excerpt: "A great introduction to the use of statistics, and a great refresher for anyone who’s already well versed in it."
 categories: [Books]
 tags: 
-- Books
+- Recommended Books
 
 header:
   teaser : /assets/images/How_to_Lie_with_Statistics.jpg
@@ -12,6 +12,8 @@ header:
 ---
 
 ![How to Lie with Statistics](/assets/images/How_to_Lie_with_Statistics.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;"}
+
+***‘How to Lie with Statistics’*** was published in 1954, in all its essences it’s quite an old book.  So what made a 20 something year old man into to read a book published before he was born?  
 
 A while ago I was asked to generate statistics for a software that I built.  
 I immediately went straight into the task!  Although it worked like a charm, 
