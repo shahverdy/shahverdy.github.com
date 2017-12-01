@@ -6,11 +6,11 @@ categories: [Programing]
 tags: []
 
 header:
-  teaser : /assets/images/FarsiPoemBot.jpg
+  teaser : /assets/images/posts/FarsiPoemBot.jpg
 
 ---
 
-![FarsiPeomBot](/assets/images/FarsiPoemBot.jpg)
+![FarsiPeomBot](/assets/images/posts/FarsiPoemBot.jpg)
 
 I usually read poems, A LOT! I decided to create a new experience of literature for myself, and thats a new bot for Telegram app.
 I created this app for myself, but anyone can use it as its free to use!

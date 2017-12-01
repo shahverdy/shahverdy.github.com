@@ -6,8 +6,8 @@ categories: [People]
 
 header:
   overlay_filter: rgba(100, 0, 100, 0.4)
-  overlay_image: /assets/images/carpet.jpg
-  teaser : /assets/images/carpet.jpg
+  overlay_image: /assets/images/posts/carpet.jpg
+  teaser : /assets/images/posts/carpet.jpg
   caption: "Photo credit: [**Mostafa Shahverdy**](https://www.mostafa.info)"
 
 ---

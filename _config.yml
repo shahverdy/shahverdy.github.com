@@ -43,24 +43,42 @@ breadcrumbs: true
 include: ["_pages"]
 
 category_archive:
-  type: jekyll-archives
+  type: liquid
   path: /categories/
 tag_archive:
-  type: jekyll-archives
+  type: liquid
   path: /tags/
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layouts:
-    category: archive-taxonomy
-    tag: archive-taxonomy
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+
+#jekyll-archives:
+  #enabled:
+    #- categories
+    #- tags
+  #layouts:
+    #category: archive-taxonomy
+    #tag: archive-taxonomy
+  #permalinks:
+    #category: /categories/:name/
+    #tag: /tags/:name/
+
+
+
+
+# Collections
+collections:
+  books:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
-  # _posts
+  # Books
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # Posts
   - scope:
       path: ""
       type: posts
@@ -74,7 +92,7 @@ defaults:
         caption: "Photo credit: **Saeed Bayat**"
         overlay_image: /assets/images/flower.jpg
 
-  # _pages
+  # Pages
   - scope:
       path: ""
       type: pages
@@ -89,7 +107,7 @@ defaults:
 
 author:
   name   : "Mostafa Shahverdy"
-  avatar : "/assets/images/701x701.png"
+  avatar : "/assets/images/profiles/701x701.png"
   email  : "hello@mostafa.info"
   uri    : "http://www.mostafa.info"
   bio    : "M.Sc Computer eng, Creator and Developer, Browsers Developer, Multimedia Coder, Otaku!"

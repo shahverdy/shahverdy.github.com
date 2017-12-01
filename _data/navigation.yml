@@ -3,7 +3,5 @@ main:
     url: /cv
   - title: "PGP"
     url: /pgp
-  - title: "Tags"
-    url: /tags
-  - title: "Catecories"
-    url: /categories
+  - title: "Recommended Books"
+    url: /books

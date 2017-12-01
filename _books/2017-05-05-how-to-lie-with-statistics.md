@@ -2,16 +2,22 @@
 title: "'How to Lie with Statistics', by Darrell Huff"
 modified:
 excerpt: "A great introduction to the use of statistics, and a great refresher for anyone who’s already well versed in it."
-categories: [Books]
-tags: 
-- Recommended Books
 
 header:
-  teaser : /assets/images/How_to_Lie_with_Statistics.jpg
+  teaser : /assets/images/books/How_to_Lie_with_Statistics.jpg
 
+sidebar:
+  - title: "How to Lie with Statistics"
+    image: /assets/images/books/How_to_Lie_with_Statistics.jpg
+    image_alt: "logo"
+    text: "\n
+| *Author*                        | [**Darrell Huff**](https://en.wikipedia.org/wiki/Darrell_Huff) \n
+| *Publisher*                     | [**W. W. Norton & Company**](http://www.wwnorton.com) \n
+| *Originally published on*       | **1954** \n
+| *Number of pages*               | **144** \n
+"
 ---
 
-![How to Lie with Statistics](/assets/images/How_to_Lie_with_Statistics.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;"}
 
 ***‘How to Lie with Statistics’*** was published in 1954, in all its essences it’s quite an old book.  So what made a 20 something year old man into to read a book published before he was born?  
 

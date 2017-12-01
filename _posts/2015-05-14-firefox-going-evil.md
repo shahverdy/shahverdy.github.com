@@ -6,11 +6,11 @@ categories: [Programing, Browsers]
 tags: [Browsers]
 
 header:
-  teaser: /assets/images/firefox-add-ons.jpeg
+  teaser: /assets/images/posts/firefox-add-ons.jpeg
 
 ---
 
-![Firefox](/assets/images/firefox-add-ons.jpeg){:style="float: right ;margin-right: 7px;margin-top: 7px;"}
+![Firefox](/assets/images/posts/firefox-add-ons.jpeg){:style="float: right ;margin-right: 7px;margin-top: 7px;"}
 
 Firefox's add-ons environment is generally very open. Developers have a wide range of access to APIs, from changing the core to distribute their add-on from their own channel and not Mozilla's. In this way developers are more free to develop, but also they are more free to take the advantages of users!
 

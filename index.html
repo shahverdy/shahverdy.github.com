@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: archive
 
 header:
   caption: "Photo credit: **Saeed Bayat**"
@@ -7,3 +7,28 @@ header:
 
 author_profile: true
 ---
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Notes" }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
+
+
+<h3 class="archive__subtitle"><a href="/books/">{{ site.data.ui-text[site.locale].recent_books | default: "Recent Books" }}</a></h3>
+<br />
+
+<style>
+.archive__item-teaser {
+    max-height:400px !important;
+}
+</style>
+
+<div class="grid__wrapper">
+  {% assign books = site.books | reverse %}
+  {% for post in books limit:3 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
