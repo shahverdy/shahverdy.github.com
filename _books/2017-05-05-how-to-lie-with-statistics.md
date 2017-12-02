@@ -9,7 +9,7 @@ header:
 sidebar:
   - title: "How to Lie with Statistics"
     image: /assets/images/books/How_to_Lie_with_Statistics.jpg
-    image_alt: "logo"
+    image_alt: "Cover"
     text: "\n
 | *Author*                        | [**Darrell Huff**](https://en.wikipedia.org/wiki/Darrell_Huff) \n
 | *Publisher*                     | [**W. W. Norton & Company**](http://www.wwnorton.com) \n
