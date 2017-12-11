@@ -77,7 +77,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true
+      share: false
   # Posts
   - scope:
       path: ""
@@ -85,7 +85,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      related: true
+      related: false
 
       header:
         overlay_filter: rgba(0, 0, 0, 0.4)
