@@ -10,7 +10,7 @@ permalink: /cv
 
 ## PDF Version
 
-- _<span><s>English</s></span>_ [***Detailed*** _English v2013_](/assets/Detailed_English_2013.pdf)
+- _<span><s>English</s></span>_ [***Detailed*** _English v2018_](/assets/Detailed_English_2018.pdf)
 - [_Farsi v2013_](/assets/Detailed_Farsi_2013.pdf)
 
 
