@@ -11,9 +11,9 @@ sidebar:
     image : /assets/images/books/The_President_Is_Missing.jpg
     image_alt: "cover"
     text: "\n
-| *Author*                        | [Bill Clinton & James Patterson](<https://en.wikipedia.org/wiki/The_President_Is_Missing_(novel)>) \n
-| *Publisher*                     | [Alfred A. Knopf and Little, Brown & Co.](http://knopfdoubleday.com) \n
-| *Number of pages*               | 500 \n
+| *Author*                        | [**Bill Clinton & James Patterson**](<https://en.wikipedia.org/wiki/The_President_Is_Missing_(novel)>) \n
+| *Publisher*                     | [**Alfred A. Knopf and Little, Brown & Co.**](http://knopfdoubleday.com) \n
+| *Number of pages*               | **500** \n
 "
 ---
 
