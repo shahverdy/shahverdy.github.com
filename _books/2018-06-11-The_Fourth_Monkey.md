@@ -23,8 +23,9 @@ of the killer, which is set in old days of his childhood. What really made me ke
 which read as diary entries that reflect the killer’s thoughts from the moment he was a child. So it shows how a child grew up and what 
 he saw in his childhood, that made him a serial killer. 
 
-This is a very intense, dark and disturbing novel to read. The chapters are short, which gives you that “just one more chapter” feeling and I did not want to put it down. EVER. 
-I would recomend this book and if you’re a fan of the serial killer thriller then it’s a must read. 
+This is a very intense, dark and disturbing novel to read. The chapters are short, which gives you that *just one more chapter* feeling and I did not want to put it down. EVER. 
+I would recomend this book and if you're a fan of the serial killer thriller then it's a must read. I had the opportunity to have this book as a gift, and honestly it was 
+one of the best gifts I've ever had.
 
 btw, you will see apple products all over the book!
 
