@@ -1,7 +1,7 @@
 ---
 title: "The Subtle Art of Not Giving a F*ck"
 modified:
-excerpt: "In this generation-defining self-help guide, a superstar blogger cuts through the crap to show us how to stop trying to be "positive" all the time so that we can truly become better, happier people."
+excerpt: "In this generation-defining self-help guide, a superstar blogger cuts through the crap to show us how to stop trying to be *positive* all the time so that we can truly become better, happier people."
 
 header:
   teaser : /assets/images/books/Art_Of_Not_Giving_A_Fuck.jpeg
