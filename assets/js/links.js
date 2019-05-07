@@ -1,9 +1,9 @@
 
-
 var links = {
-    "bsi" : "http://bsi.ir/", 
-    "bmi" : "http://bmi.ir"
+    "#bsi1" : "https://www.bsi.ir/MobileBank/hamrahbank/BSI_1.1.apk", 
 };
 
-var to_link = links[window.location.hash];
-window.location = links[to_link];
+index = window.location.hash.toString();
+to_link = links[index];
+window. location = to_link;
+
