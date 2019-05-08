@@ -22,14 +22,21 @@ var links = [
     "https://apps.bsi.ir/Sapp%201.08.06.apk"
 ];
 
-index = window.location.pathname;
+ref = document.referrer;
+path = ref.split("mostafa.info/");
+if(path.length > 1 )
+    index = path[1];
+    //index = window.location.pathname;
+else
+    exit;
+
 to_link = links[index];
 
-//if(to_link)
-//    window.location = to_link;
-//else
-//    window.location = "http://www.mostafa.info";
-//    
+if(to_link)
+    window.location = to_link;
+else
+    window.location = "http://www.mostafa.info";
+    
 
 
 
