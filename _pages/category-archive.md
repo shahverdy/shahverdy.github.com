@@ -8,6 +8,12 @@ header:
     caption: "Photo credit: [cloudsrpretty](https://www.reddit.com/r/fountainpens/comments/8j5ed7/boyfriend_bought_me_my_first_fountain_pen_a/)"
 ---
 
+<style>
+.archive__item-teaser {
+    max-height:400px !important;
+}
+</style>
+
 {% include group-by-array collection=site.posts field="categories" %}
 
 {% for category in group_names %}
