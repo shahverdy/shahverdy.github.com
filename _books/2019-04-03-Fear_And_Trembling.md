@@ -11,7 +11,7 @@ sidebar:
     image : /assets/images/books/Fear_and_Trembling.jpg
     image_alt: "cover"
     text: "\n
-| *Author*                        | [**Amélie Nothomb**](https://en.wikipedia.org/wiki/Am%C3%A9lie_Nothomb/) \n
+| *Author*                        | [**Amélie Nothomb**](https://en.wikipedia.org/wiki/Am%C3%A9lie_Nothomb) \n
 | *Publisher*                     | [**Éditions Albin Michel**](https://en.wikipedia.org/wiki/%C3%89ditions_Albin_Michel) \n
 | *Originally published on*       | **1999** \n
 | *Number of pages*               | **174** \n
