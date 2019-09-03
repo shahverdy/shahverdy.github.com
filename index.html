@@ -8,15 +8,6 @@ header:
 author_profile: true
 ---
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Notes" }}</h3>
-
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% include paginator.html %}
-
-
 <h3 class="archive__subtitle"><a href="/books/">{{ site.data.ui-text[site.locale].recent_books | default: "Recent Books" }}</a></h3>
 <br />
 
@@ -32,3 +23,13 @@ author_profile: true
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Notes" }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
+
+
