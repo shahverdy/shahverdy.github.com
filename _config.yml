@@ -71,6 +71,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  posts:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # Books
   - scope:
@@ -112,7 +116,7 @@ author:
   avatar : "/assets/images/profiles/500x500.png"
   email  : "hello@mostafa.info"
   uri    : "http://www.mostafa.info"
-  bio    : "M.Sc Computer eng, Creator and Developer, Browsers Developer, Multimedia Coder, Otaku!"
+  bio    : "Husband, Son, Brother, Creator, Deep into Software."
   twitter: "shahverd"
 
 # Exclude from processing.
