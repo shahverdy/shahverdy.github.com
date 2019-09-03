@@ -8,7 +8,7 @@ header:
 author_profile: true
 ---
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_books | default: "Recent Books" }}<a href="/books/"><i>full list</i></a></h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_books | default: "Recent Books" }}<a href="/books/"> <i>(see full list)</i></a></h3>
 <br />
 
 <style>
@@ -24,7 +24,7 @@ author_profile: true
   {% endfor %}
 </div>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Notes" }}<a href="/categories/"><i>full list</i></a></h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Notes" }}<a href="/categories/"> <i>(see full list)</i></a></h3>
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}
