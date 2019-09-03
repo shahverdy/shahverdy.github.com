@@ -9,8 +9,8 @@ header:
 ---
 
 <style>
-.archive__item-teaser {
-    max-height:400px !important;
+.page__hero--overlay {
+    padding: 10em 0 !important;
 }
 </style>
 
